@@ -20,9 +20,7 @@ A sleek and minimal **Todo App** built with
 
 ## 🖼️ Preview
 
-![Todo App Screenshot](./src/assets/todo_icon.png)
-
----
+Netlyfly Link : ();
 
 ## 🚀 Tech Stack
 
