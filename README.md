@@ -7,7 +7,7 @@ This repo contains multiple projects built using **React.js** to practice and de
 
 ## 📁 Projects Included
 
-### 1. 🌦️ [Weather App]([./weather-app](https://gorgeous-mooncake-cb0065.netlify.app/)
+### 1. 🌦️ [Weather App]([./weather-app])(https://gorgeous-mooncake-cb0065.netlify.app/)
 A responsive weather application that fetches real-time data from the **OpenWeatherMap API**. Users can search any city to get the current weather including temperature, humidity, wind speed, and weather description.
 
 
