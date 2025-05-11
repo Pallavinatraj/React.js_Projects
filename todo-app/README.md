@@ -20,7 +20,7 @@ A sleek and minimal **Todo App** built with
 
 ## 🖼️ Preview
 
-Netlyfly Link : ();
+Netlify Link : https://gorgeous-mooncake-cb0065.netlify.app/;
 
 ## 🚀 Tech Stack
 
